@@ -1,7 +1,7 @@
+<a target="_blank" href="https://github.com/EmonRezaBD/"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
+
+
 ### Hi there 👋
-
-
-**EmonRezaBD/EmonRezaBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
