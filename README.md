@@ -16,4 +16,4 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&theme=synthwave&show_icons=true" alt="EmonRezaBD" /> </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harunshimanto" alt="harunshimanto" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=EmonRezaBD" alt="EmonRezaBD" /> </p>
