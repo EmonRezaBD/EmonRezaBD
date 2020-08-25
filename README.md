@@ -8,7 +8,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/EmonRezaBD/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/EmonRezaBD)
 
-Hello there. I am MD.
+Hello there. I am MD.Rokonuzzaman Reza. 
 
 <p align="left">
   <a href="https://github.com/EmonRezaBD"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
