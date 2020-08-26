@@ -1,5 +1,5 @@
 <a target="_blank" href="https://github.com/EmonRezaBD/"><img width="500" align="right" src="https://github.com/EmonRezaBD/EmonRezaBD/blob/master/programming.gif"></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmonRezaBD" alt="EmonRezaBD" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=EmonRezaBD" alt="EmonRezaBD" /> </p>
 
 # Md.Rokonuzzaman Reza
 
