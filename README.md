@@ -17,9 +17,7 @@ Hello there. I am MD.Rokonuzzaman Reza. Passionate for new technology.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&theme=synthwave&show_icons=true" alt="EmonRezaBD" /> </h1>
 
-
 <a href="https://github.com/EmonRezaBD"> <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
 </a>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EmonRezaBD" alt="EmonRezaBD" /> </p>
