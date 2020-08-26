@@ -8,6 +8,8 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/EmonRezaBD/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/EmonRezaBD)
 
+---
+
 Hello there. I am MD.Rokonuzzaman Reza. Passionate for new technology.
 
 <p align="left">
