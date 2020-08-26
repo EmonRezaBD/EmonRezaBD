@@ -20,4 +20,3 @@ Hello there. I am MD.Rokonuzzaman Reza. Passionate for new technology.
 
 <br> <br> <br> <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EmonRezaBD" alt="EmonRezaBD" /> </p>
