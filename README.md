@@ -13,10 +13,10 @@
 Hello there. I am MD.Rokonuzzaman Reza. Passionate for new technology.
 
 ---
+<a href="https://github.com/EmonRezaBD"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&theme=synthwave&show_icons=true" alt="EmonRezaBD" /> </a>
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
 
-<a href="https://github.com/EmonRezaBD"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&theme=synthwave&show_icons=true" alt="EmonRezaBD" /> </a>
 
 
 
