@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/EmonRezaBD/"><img width="400" align="right" src="https://github.com/EmonRezaBD/EmonRezaBD/blob/master/programming.gif"></a>
+<a target="_blank" href="https://github.com/EmonRezaBD/"><img width="450" align="right" src="https://github.com/EmonRezaBD/EmonRezaBD/blob/master/programming.gif"></a>
 
 # Md.Rokonuzzaman Reza
 
