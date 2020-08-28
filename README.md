@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/EmonRezaBD/"><img width="500" align="right" src="https://github.com/EmonRezaBD/EmonRezaBD/blob/master/programming.gif"></a>
+<a target="_blank" href="https://github.com/EmonRezaBD/"><img width="400" align="right" src="https://github.com/EmonRezaBD/EmonRezaBD/blob/master/programming.gif"></a>
 
 # Md.Rokonuzzaman Reza
 
@@ -14,9 +14,9 @@ Hello there. I am MD.Rokonuzzaman Reza. Passionate for new technology.
 
 ---
 
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
+
 <a href="https://github.com/EmonRezaBD"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&theme=synthwave&show_icons=true" alt="EmonRezaBD" /> </a>
 
 
-<a href="https://github.com/EmonRezaBD"> <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
-</a>
 
