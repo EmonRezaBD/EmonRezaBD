@@ -10,7 +10,7 @@
 
 ---
 
-Hello there. I am MD.Rokonuzzaman Reza. Passionate for new technology.
+Hello there. I am Reza. Passionate for new technology. 
 
 ---
 
