@@ -10,7 +10,8 @@
 
 ---
 
-Hello there. I am Reza. Passionate for new technology. 
+Hello there! I'm looking for Phd opportunity in Fall 24. 
+My research interest: ML, Computer Vision, HCI, and Intelligent System Design 
 
 ---
 
