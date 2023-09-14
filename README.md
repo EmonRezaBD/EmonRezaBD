@@ -9,9 +9,10 @@
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/EmonRezaBD)
 
 ---
-
-Hello there! I'm looking for Phd opportunity in Fall 24. 
+Hello there! 
+<span style="font-size: larger;">**I'm looking for Phd opportunity in Fall 24.**</span>
 My research interest: ML, Computer Vision, HCI, and Intelligent System Design 
+
 
 ---
 
