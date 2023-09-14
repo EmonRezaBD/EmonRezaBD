@@ -4,8 +4,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:emonreza86@gmail.com?subject=From%20GitHub&cc=rokonuzzamanreza@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Facebook Connect](https://img.shields.io/badge/%20-Connect-blue?color=14171A&labelColor=4679D1&logo=facebook&logoColor=ffffff)](https://www.facebook.com/EmonRezaBD/)
-[![Twitter Logo](https://github.com/your-username/your-repo/blob/main/twitter-logo.png)](https://twitter.com/your-twitter-handle)
-(https://twitter.com/EmonRezaBD)
+[![Twitter Logo](https://github.com/EmonRezaBD/EmonRezaBD/twitter logo.jng)](https://twitter.com/EmonRezaBD)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/EmonRezaBD/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/EmonRezaBD)
 
