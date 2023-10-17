@@ -11,7 +11,7 @@
 ---
 Hello there! 
 <span style="font-size: larger;">**I'm looking for Phd opportunity in Fall 24.**</span>
-My research interest: ML, Computer Vision, HCI, and Intelligent System Design 
+My research interest: Ubiquitous Computing, ML, Computer Vision, and Intelligent System Design 
 ---
 
 <img align="left" width=403 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
