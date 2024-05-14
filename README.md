@@ -10,8 +10,8 @@
 
 ---
 Hello there! 
-<span style="font-size: larger;">**I'm looking for Phd opportunity in Fall 24.**</span>
-My research interest: Ubiquitous Computing, ML, Computer Vision, and Intelligent System Design 
+<span style="font-size: larger;">**I'm looking for Phd opportunity**</span>
+My research interests:  Computer Vision, Image Processing, Deep Learning, Ubiquitous Computing, ML 
 ---
 
 <img align="left" width=403 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
