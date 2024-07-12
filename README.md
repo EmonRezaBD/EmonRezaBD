@@ -11,7 +11,7 @@
 ---
 Hello there! 
 <span style="font-size: larger;">**I'm looking for Phd opportunity**</span>
-My research interests:  Computer Vision, Image Processing, Deep Learning, Ubiquitous Computing, ML 
+My research interests:  Computer Vision, Image Processing, Deep Learning, High Performance Computing, ML 
 ---
 
 <img align="left" width=403 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
