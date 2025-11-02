@@ -1,6 +1,6 @@
 <a target="_blank" href="https://github.com/EmonRezaBD/"><img width="450" align="right" src="https://github.com/EmonRezaBD/EmonRezaBD/blob/master/programming.gif"></a>
 
-# Md.Rokonuzzaman Reza
+# Md Rokonuzzaman Reza
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:emonreza86@gmail.com?subject=From%20GitHub&cc=rokonuzzamanreza@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Facebook Connect](https://img.shields.io/badge/%20-Connect-blue?color=14171A&labelColor=4679D1&logo=facebook&logoColor=ffffff)](https://www.facebook.com/EmonRezaBD/)
@@ -10,8 +10,7 @@
 
 ---
 Hello there! 
-<span style="font-size: larger;">**I'm looking for Phd opportunity**</span>
-My research interests:  Computer Vision, Image Processing, Visualization, High Performance Computing, ML 
+<span style="font-size: larger;">**I'm Looking for Summer 2026 Internship Opportunity**</span>
 ---
 
 <img align="left" width=403 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=radical" />
