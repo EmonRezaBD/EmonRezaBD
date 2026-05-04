@@ -46,16 +46,14 @@ I'm a Computer Science PhD student at LSU researching **Human-Computer Interacti
 
 ---
 
-### 📊 GitHub Activity
+### 📚 Selected Publications
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmonRezaBD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- **Reza, M. R.** et al. *Towards Designing Intuitive Mobile UIs Considering Tapping Behaviour of Elderly Users.* Springer DIGICOM 2023.
+- Ahmed, I. et al. (incl. **Reza, M. R.**) *ChatGPT versus Bard: A Comparative Study.* Wiley Engineering Reports 2024.
+- **Reza, M. R.** et al. *Thermique: An Integrated AI-Based Temperature Sensing System to Hold Back COVID-19 Contamination.* ACM ICCA 2022.
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmonRezaBD&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-</p>
+→ Full publication list on [Google Scholar](https://scholar.google.com/citations?user=9Tcxq-0AAAAJ&hl=en)
 
 ---
 
-📍 Baton Rouge, LA · 📧 [mreza3@lsu.edu](mailto:mreza3@lsu.edu)
+📍 Baton Rouge, LA · 📧 [mreza3@lsu.edu](mailto:mreza3@lsu.edu) · 🔗 [Portfolio](https://sites.google.com/view/rokonuzzamanreza)
