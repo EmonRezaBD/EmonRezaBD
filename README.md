@@ -10,8 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F9D58?style=flat&logo=googlechrome&logoColor=white)](https://sites.google.com/view/rokonuzzamanreza)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/EmonRezaBD)
 
----
-
 ### 🎯 Open to Summer 2026 Internship Opportunities
 
 I'm a Computer Science PhD student at LSU researching **Human-Computer Interaction**, with prior industry experience as an **R&D Software Engineer at Frontier Semiconductor** (Milpitas, CA). I build high-performance systems that bridge low-level engineering and applied AI.
@@ -47,23 +45,12 @@ I'm a Computer Science PhD student at LSU researching **Human-Computer Interacti
 
 ---
 
-### 📌 Featured Work
-
-| Project | Description |
-|---|---|
-| **[FSM 125 RAFT](https://metrosemi.com/fsm-125/)** | CUDA-accelerated 3D wafer topography tool — purchased by TSMC, UTAC; demoed at SEMICON West |
-| **FSM 4PP** | Lead developer for Cassette-to-Cassette resistivity tool built to SEMI E95 standard |
-| **[Intelligent UI Analyzer](https://github.com/EmonRezaBD/Intelligent-UI-Analyzer)** | LLM-based web app providing usability feedback on UI designs |
-| **[Thermique](https://github.com/EmonRezaBD/Thermique)** | Real-time thermal-vision system for COVID screening (ICCA 2022) |
-
----
-
 ### 📊 GitHub Stats
 
-<a href="https://github.com/EmonRezaBD">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
