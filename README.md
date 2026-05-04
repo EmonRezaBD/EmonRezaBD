@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-mreza3@lsu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mreza3@lsu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EmonRezaBD/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9Tcxq-0AAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/Citations-30+-success?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9Tcxq-0AAAAJ&hl=en)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F9D58?style=flat&logo=googlechrome&logoColor=white)](https://sites.google.com/view/rokonuzzamanreza)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/EmonRezaBD)
 
@@ -45,11 +46,14 @@ I'm a Computer Science PhD student at LSU researching **Human-Computer Interacti
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EmonRezaBD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmonRezaBD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmonRezaBD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmonRezaBD&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
