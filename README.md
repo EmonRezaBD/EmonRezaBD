@@ -23,11 +23,10 @@ I'm a Computer Science PhD student at LSU researching **Human-Computer Interacti
 
 ### 🔬 What I Work On
 
-- **PhD Research** — EEG-based studies on cognitive effort and dark-pattern UI design
+- **PhD Research** — EEG-based studies on cognitive effort, dark-pattern UI design, simulation with AI agents, Human AI Interaction
 - **Semiconductor R&D** — Delivered metrology software for **TSMC, Intel, SK Hynix, Texas Instruments**; led the FSM 4PP C2C tool showcased at SEMICON Japan
 - **High-Performance Computing** — CUDA C++ image processing pipelines that delivered ~100% performance gains on production tools
-- **Applied AI** — LLM-based UI usability analysis, simulation of human attitude and behaviors with AI agents, Human-AI interaction 
-
+  
 ---
 
 ### 🛠️ Tech Stack
