@@ -1,5 +1,7 @@
 <a target="_blank" href="https://github.com/EmonRezaBD/"><img width="380" align="right" src="https://github.com/EmonRezaBD/EmonRezaBD/blob/master/programming.gif"></a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=CS+PhD+Student+%40+LSU;Ex-R%26D+Engineer+%40+Frontier+Semiconductor;CUDA+%2B+C%2B%2B+%2B+Applied+AI;Open+to+Summer+2026+Internships" alt="Typing SVG" />
+</p>
 # Md Rokonuzzaman Reza
 
 **CS PhD Student** @ Louisiana State University | **HCI** • **CUDA/C++** • **Applied AI**
