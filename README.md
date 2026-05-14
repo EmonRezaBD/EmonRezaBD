@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EmonRezaBD/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9Tcxq-0AAAAJ&hl=en)
 [![Citations](https://img.shields.io/badge/Citations-171+-success?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9Tcxq-0AAAAJ&hl=en)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F9D58?style=flat&logo=googlechrome&logoColor=white)](https://sites.google.com/view/rokonuzzamanreza)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F9D58?style=flat&logo=googlechrome&logoColor=white)](https://emonrezabd.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/EmonRezaBD)
 
 ### 🎯 Open to Summer 2026 Internship Opportunities
