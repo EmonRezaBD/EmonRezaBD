@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F9D58?style=flat&logo=googlechrome&logoColor=white)](https://emonrezabd.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/EmonRezaBD)
 
-### 🎯 Open to Summer 2026 Internship Opportunities
+### 🎯 Open to Summer 2027 Internship Opportunities
 
 I'm a Computer Science PhD student at LSU researching **Human-Computer Interaction**, with prior industry experience as an **R&D Software Engineer at Frontier Semiconductor (FSM)** (Milpitas, CA). I build high-performance systems that bridge low-level engineering and applied AI.
 
